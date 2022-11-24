@@ -2,7 +2,7 @@ import java.util.*;
 class Main{
     static Scanner scan = new Scanner(System.in);
     static int atm_total=0;
-    static String u_name[]= {"Surendhran","Nishanth"};
+    static String u_name[]= {"Sudharsan","Surendhran"};
     static int u_pass[]={1234,12345};
     static int balance[]={10000,20000};
     static String mini_statement[][] = new String[u_name.length][7];
